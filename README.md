@@ -23,6 +23,8 @@ Cítim sa fess múdro keď som to nazval protokol.
 - [ArduinoIDE](https://www.arduino.cc/en/software)
 - [Python](https://www.python.org/)
 - [KeypassXC](https://keepassxc.org/)
+- [Git](https://git-scm.com/downloads)
+- [Github Desktop](https://desktop.github.com/)
 ## Games Shi
 - [Steam](https://store.steampowered.com/about/)
 - [Minecraft](https://www.minecraft.net/en-us/download)
