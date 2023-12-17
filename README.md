@@ -31,3 +31,6 @@ Cítim sa fess múdro keď som to nazval protokol.
 - [CurseForge](https://www.curseforge.com/download/app)
 - [TruckersMP](https://truckersmp.com/download)
 - [LunarClient](https://truckersmp.com/download)
+
+## Microsoft Store 
+- SPIKE
