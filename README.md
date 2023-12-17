@@ -22,6 +22,7 @@ Cítim sa fess múdro keď som to nazval protokol.
 - [LibreOffice](https://sk.libreoffice.org/)
 - [ArduinoIDE](https://www.arduino.cc/en/software)
 - [Python](https://www.python.org/)
+- [KeypassXC](https://keepassxc.org/)
 ## Games Shi
 - [Steam](https://store.steampowered.com/about/)
 - [Minecraft](https://www.minecraft.net/en-us/download)
