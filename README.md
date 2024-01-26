@@ -25,6 +25,7 @@ Cítim sa fess múdro keď som to nazval protokol.
 - [KeypassXC](https://keepassxc.org/)
 - [Git](https://git-scm.com/downloads)
 - [Github Desktop](https://desktop.github.com/)
+- [Replit](https://replit.com/desktop)
 ## Games Shi
 - [Steam](https://store.steampowered.com/about/)
 - [Minecraft](https://www.minecraft.net/en-us/download)
